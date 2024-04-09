@@ -10,4 +10,4 @@ Dosyaya Yazma: Kullanıcı bu seçeneği seçerek bir dosyaya yazabilir. Program
 
 Dosyaya Ekleme: Kullanıcı bu seçeneği seçerek bir dosyaya eklemeler yapabilir. Program, kullanıcıdan dosya adını ve eklenecek içeriği alır ve bu bilgilerle belirtilen dosyaya ekleme işlemi gerçekleştirir.
 
-Kullanıcı herhangi bir işlemi seçtikten sonra, program gerekli bilgileri alır ve seçilen işlemi gerçek
+Kullanıcı herhangi bir işlemi seçtikten sonra, program gerekli bilgileri alır ve seçilen işlemi gerçekleştirir. İşlem tamamlandığında, kullanıcıya işlemin başarıyla gerçekleştirildiğine dair bir mesaj gösterilir.
